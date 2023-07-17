@@ -66,10 +66,10 @@ const CurrencyConverter = () => {
     <TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
       <SafeAreaView className="flex-1 flex justify-center align-middle">
         <View
-          className="w-full h-[15%] p-5"
+          className="w-full h-[10%] p-5"
           style={[currencyConverterStyles.flexStart]}
         >
-          <Text className="pt-10" style={[currencyConverterStyles.largeTitle]}>
+          <Text className="pt-0.5" style={[currencyConverterStyles.largeTitle]}>
             Coinverter
           </Text>
         </View>
@@ -86,7 +86,7 @@ const CurrencyConverter = () => {
             />
           </View>
         </View>
-        <View className="w-full h-[60%] p-5">
+        <View className="w-full h-[65%] p-5">
           <Text style={[currencyConverterStyles.title]} className="px-5">
             Cnvert coin value
           </Text>
