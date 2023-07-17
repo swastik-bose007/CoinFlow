@@ -4,13 +4,18 @@ A crypto price tracker app with coin value conversion from USD to EUR and INR. I
 
 # Download for Android 
 
-<a href="https://expo.dev/accounts/swastik007/projects/CoinFlow/builds/d7dbebfa-14de-4d3f-8a8e-55bba8987381">install Coinflow from this link</a>
+<a href="https://expo.dev/accounts/swastik007/projects/CoinFlow/builds/5bd8bafd-a078-45c9-9a65-d799cf2e1e4a">install Coinflow from this link</a>
 
 # Images
 
 ![coinflow_main](https://github.com/swastik-bose007/CoinFlow/assets/98341839/6ba29f3a-18b8-4be9-a333-c083f5e34dd8)
 
 ![coinflow_secondary](https://github.com/swastik-bose007/CoinFlow/assets/98341839/5e5e629a-b047-4faa-a86d-6334c5d6349f)
+
+## Version 1.0.5
+
+![coinflow_v2](https://github.com/swastik-bose007/CoinFlow/assets/98341839/e15000a4-6de2-4295-954f-27f2bb091633)
+
 
 # UI/UX link
 
